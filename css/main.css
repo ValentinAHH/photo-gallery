@@ -1,0 +1,137 @@
+/*** sectioning elements ***/
+.photo-gallery a {
+  text-decoration: none;
+}
+
+.photo-gallery img {
+  border: 6px solid #1d2738;
+  padding: 6px;
+  transition: all .5s ease-in-out;
+}
+
+
+.photo-gallery img:hover {
+  transform: scale(1.1);
+}
+
+body {
+      background-color: #e6f3ff;
+      margin-left: 150px;
+      margin-right: 150px;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+  color: #1d2738;
+  text-align: center;
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
