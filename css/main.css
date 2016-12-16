@@ -75,7 +75,10 @@ h6 {
 }
 
 p {
-
+   font-size: 40px;
+  font-family: 'Abril Fatface', cursive;
+  color: #1d2738;
+  text-align: center;
 }
 
 blockquote {
